@@ -5,6 +5,6 @@ launch is a shell script that runs a pure data patch headless (-nogui) and makes
 
 needs to be executable:
 
-`sudo chmod 755 script_pd`
+`sudo chmod 755 launch`
 
 and then add the full path to the script to /etc/rc.local
