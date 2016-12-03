@@ -8,3 +8,7 @@ needs to be executable:
 `sudo chmod 755 launch`
 
 and then add the full path to the script to /etc/rc.local
+
+I haven't been able to figure out how to autolaunch w/out -nogui, seems to hang the pi's statup.
+
+For manual midi connections - aconnectgui works 
